@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Portfolio</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!----------------------------------------------------------Sidebar-------------------------------------------------------------------------------->
+    <div class="sidebar">
+        <div class="img-circle"></div>
+        <div class="name">
+            Nemanja Plavsic
+            <span>Available for work</span>
+        </div>
+        <ul>
+            <li><a class="on-page" id="home">Home</a></li>
+            <li><a id="about">About</a></li>
+            <li><a id="skills">Skills</a></li>
+            <li><a id="projects">Projects</a></li>
+            <li><a id="contact">Contact</a></li>
+        </ul>
+
+    </div>
+
+    <main>
+        <!----------------------------------------------------------Topbar-------------------------------------------------------------------------------->
+        <div class="topbar">
+            <div class="dropdown">
+                <button class="dropbtn">Menu</button>
+                <div class="dropdown-content">
+                    <a id="home" href="#">Home</a>
+                    <a id="about" href="#">About</a>
+                    <a id="skills" href="#">Skills</a>
+                    <a id="projects" href="#">Projects</a>
+                    <a id="contact" href="#">Contact</a>
+                </div>
+            </div>
+        </div> 
+        @RenderBody()
+    </main>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
