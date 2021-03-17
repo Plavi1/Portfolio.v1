@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\portfolio for github\\Portfolio.v1\\Portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\pc\\Desktop\\acc i zavrseni projekti\\portfolio\\Portfolio.v1\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\portfolio for github\\Portfolio.v1\\Portfolio\\Portfolio.csproj": {
+    "C:\\Users\\pc\\Desktop\\acc i zavrseni projekti\\portfolio\\Portfolio.v1\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\portfolio for github\\Portfolio.v1\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\acc i zavrseni projekti\\portfolio\\Portfolio.v1\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\pc\\Desktop\\portfolio for github\\Portfolio.v1\\Portfolio\\Portfolio.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\acc i zavrseni projekti\\portfolio\\Portfolio.v1\\Portfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\portfolio for github\\Portfolio.v1\\Portfolio\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\acc i zavrseni projekti\\portfolio\\Portfolio.v1\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

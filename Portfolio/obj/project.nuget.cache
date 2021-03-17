@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "576JbGQxgFxp0OCLXxbAYlXzDz/hOVSrzg5xq4gJglCS8qO56lxwXgI/wDrJ7Hl6JGEvzdHzlQH+Io/RnENF7Q==",
+  "dgSpecHash": "HZUzvNKCXH2wbqkx1DTpMS9zvUxuRrKNwmHcT+otv5Om2ZqAgJyOG5iJla7rdefP4GvYu7cu+uupfmO70p2hUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\portfolio for github\\Portfolio.v1\\Portfolio\\Portfolio.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\acc i zavrseni projekti\\portfolio\\Portfolio.v1\\Portfolio\\Portfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.3\\microsoft.aspnetcore.mvc.razor.extensions.5.0.3.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.3\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.3.nupkg.sha512",
